@@ -1,0 +1,27 @@
+.banner {
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
+
+.banner p {
+    line-height: 40px;
+    width: 85%;
+    margin-left: 70px;
+}
+
+
+
+.iconos_redes img {
+    width: 20px;
+    margin: 10px;
+    line-height: 40px;
+}
+
+#icono_instagram {
+    margin-right: 30px;
+}

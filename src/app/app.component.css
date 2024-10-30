@@ -1,0 +1,48 @@
+/*Estilos del  CONTENEDOR PRINCIPAL de la barra de navegación*/
+.navbar {
+    width: 100%;
+    height: 60px;
+    /*background-color: rgb(135, 69, 196);*/
+    background-color: #5a1e70;
+    color: white;
+}
+
+/*Estilos del TITULO/NOMBRE EMPRESA  en la barra de navegación*/
+.navbar p {
+    font-size: 1.5em;
+    padding-left: 30px;
+    line-height: 15px;
+}
+
+/*Estilos del boton BUSCAR*/
+.boton {
+    height: 38px;
+}
+
+/*Estilos del contenedor (UL) de los iconos CARRITO y LOGIN */
+.opciones {
+    display: flex;
+}
+
+/*Estilos de los elementos de la lista (LI) de los iconos CARRITO y LOGIN */
+.opciones_item {
+    width: 60px;
+    line-height: 45px;
+    list-style: none;
+}
+
+/*Estilos de la IMAGEN/ICONO de LOGIN */
+.icono_login {
+    width: 27px;
+}
+
+/*Estilos de la IMAGEN/ICONO de CARRITO DE COMPRAS */
+.icono_carrito {
+    width: 34px;
+}
+
+/*Estilos del elemento de la lista (LI) LOGIN*/
+.login {
+    margin-right: 30px;
+    padding-left: 10px;
+}
